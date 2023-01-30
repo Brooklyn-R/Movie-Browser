@@ -1,4 +1,4 @@
-# Movie-Browser
+# Random Character Generator
 
 ## Getting Started with Create React App
 
